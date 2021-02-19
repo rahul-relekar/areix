@@ -9,3 +9,8 @@ or many topics below:
 - crypto price movement
 - fundamental categorization of cryptos
 - cashflow movement among rivals and players in cryptos
+
+Libraries:
+- streamlit
+- yfinance
+- pandas
